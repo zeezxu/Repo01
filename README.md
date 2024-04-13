@@ -1,11 +1,12 @@
-Gatling plugin for Maven - Java project for spike testing
+Spike testing on Flight Booking API using Gatiling 
 ============================================
 
 A spike testing on flight booking API using the Gatling plugin for Maven. Refer to the plugin documentation
 [on the Gatling website](https://gatling.io/docs/current/extensions/maven_plugin/) for usage.
 
-This project is written in Java, others are available for [Kotlin](https://github.com/gatling/gatling-maven-plugin-demo-kotlin)
-and [Scala](https://github.com/gatling/gatling-maven-plugin-demo-scala).
+Flight booking API can be found in: https://github.com/sameerean/flight-booking/tree/master?tab=readme-ov-file#markdown-header-api-documentation-and-integration-testing 
+
+This project is written in Java.
 
 It includes:
 
