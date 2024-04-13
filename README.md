@@ -1,4 +1,4 @@
-Spike testing on Flight Booking API using Gatiling 
+Spike Testing on Flight Booking API Using Gatiling 
 ============================================
 
 A spike testing on flight booking API using the Gatling plugin for Maven. Refer to the plugin documentation
