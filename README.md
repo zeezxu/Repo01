@@ -14,7 +14,7 @@ It includes:
   to install it on your computer
 * minimal `pom.xml`
 * latest version of `io.gatling:gatling-maven-plugin` applied
-* sample [Simulation](https://gatling.io/docs/gatling/reference/current/general/concepts/#simulation) class,
+* sample Simulation class,
   demonstrating sufficient Gatling functionality
-* Flight booking API spike testing 
+* flight booking API spike testing 
 * proper source file layout
