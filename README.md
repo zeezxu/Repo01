@@ -8,6 +8,9 @@ Flight booking API can be found in: https://github.com/sameerean/flight-booking/
 
 This project is written in Java.
 
+Start testing by running src/test/java/Engine.java 
+
+
 It includes:
 
 * [Maven Wrapper](https://maven.apache.org/wrapper/), so that you can immediately run Maven with `./mvnw` without having
