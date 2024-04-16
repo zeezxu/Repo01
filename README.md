@@ -8,7 +8,9 @@ Flight booking API can be found in: https://github.com/sameerean/flight-booking/
 
 This project is written in Java.
 
-Start testing by running src/test/java/Engine.java 
+Start testing by running src/test/java/Engine.java
+
+All test cases can be found in src/test/java/flightbookingDB 
 
 
 It includes:
