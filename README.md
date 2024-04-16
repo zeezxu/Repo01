@@ -8,10 +8,10 @@ Flight booking API can be found in [here](https://github.com/sameerean/flight-bo
 
 This project is written in Java.
 
-Start testing by running [this class](src/test/java/Engine.java).
+:yellow_circle: **To replicate the testing:**
 
-All test cases can be found [here](src/test/java/flightbookingDB).  
-
+* All test cases can be found in [here](src/test/java/flightbookingDB). 
+* Start the testing by running [this class](src/test/java/Engine.java) then choose a simulation number from [1] to [8].
 
 It includes:
 
