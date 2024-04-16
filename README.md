@@ -4,13 +4,13 @@ Spike Testing on Flight Booking API Using Gatiling
 A spike testing on flight booking API using the Gatling plugin for Maven. Refer to the plugin documentation
 [on the Gatling website](https://gatling.io/docs/current/extensions/maven_plugin/) for usage.
 
-Flight booking API can be found in: https://github.com/sameerean/flight-booking/tree/master?tab=readme-ov-file#markdown-header-api-documentation-and-integration-testing 
+Flight booking API can be found in [here](https://github.com/sameerean/flight-booking/tree/master?tab=readme-ov-file#markdown-header-api-documentation-and-integration-testing). 
 
 This project is written in Java.
 
-Start testing by running src/test/java/Engine.java
+Start testing by running [this class](src/test/java/Engine.java).
 
-All test cases can be found in src/test/java/flightbookingDB 
+All test cases can be found [here](src/test/java/flightbookingDB).  
 
 
 It includes:
